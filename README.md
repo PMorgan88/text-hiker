@@ -1,1 +1,1 @@
-# text-hiker
+Best path through a mountain trail. Program takes a input txt file that is formatted in the styling of the examples provided and creates a graphical representation of it through python turtle. Then incorporates a stack to graphically lead the user along the trails until the exit is found.
