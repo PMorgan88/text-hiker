@@ -1,11 +1,4 @@
-######################################
-# Lab 4: Stacks & Arithmetic Notation
-# Exercise 3, 4
-#
-# 9/19/13
-#
-# stack.py
-#######################################
+
 
 class Stack:
      def __init__(self):
